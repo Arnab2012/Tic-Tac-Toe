@@ -3,4 +3,4 @@
 # Website Link--> https://arnab2012.github.io/Tic-Tac-Toe/
 ![TicTacToe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2hjzFgkEHHNcUth2tehcXa2b-IAfQEALtNg&usqp=CAU)
 
-![EventPass](https://user-images.githubusercontent.com/98828838/210571645-8972089d-ddda-4450-93a6-062f43186627.png)
+
