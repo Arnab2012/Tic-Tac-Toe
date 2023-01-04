@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
+# It is a gaming website where you can play Tic-Tac-Toe with 2 players, and also can reset after a game play.
 ![TicTacToe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2hjzFgkEHHNcUth2tehcXa2b-IAfQEALtNg&usqp=CAU)
